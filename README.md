@@ -5,4 +5,4 @@ The project originally began on DeepNote, as can be seen in `spotify-song-recomm
 
 Once I had branched off into using Jupyter, I made a new notebook, `spotify-song-recommender-model` to run the TF-IDF algorithm and generate song recommendations. 
 
-Thus to run this project, it would be better to see the code on my [shared DeepNote article]('https://deepnote.com/@tedspace/Spotify-Song-Recommendation-System-v20-6db3d211-80b9-4bca-86b0-008e23f55791'. Then once the `complete-feature-set.csv` file has been generated, the `model` notebook can be ran as normal.
+Thus to run this project, it would be better to see the code on my [shared DeepNote article]('https://deepnote.com/@tedspace/Spotify-Song-Recommendation-System-v20-6db3d211-80b9-4bca-86b0-008e23f55791'). Then once the `complete-feature-set.csv` file has been generated, the `model` notebook can be ran as normal.
